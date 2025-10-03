@@ -1,0 +1,21 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------------< ma.ensa:rmi >-----------------------------
+[INFO] Building rmi 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.6.0:java (default-cli) @ rmi ---
+Book added: Effective Java by Joshua Bloch
+Book added: Head First Design Patterns by Eric Freeman
+Book added: Effective Java Programming by Joshua Bloch
+Connected to existing RMI registry on port 1099
+=================================
+RMI Server - Library Management System
+=================================
+Server started successfully!
+Service Name: BookService
+Port: 1099
+Server is ready to accept client connections...
+Press Ctrl+C to stop the server
+=================================
